@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-dev-poc",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7c6167d-1a0e-472e-bb10-5aa563cc8fce",
+		"tenantId": "cec6da07-0555-4fa8-92b8-8853cc2e1d36"
+	}
+}
